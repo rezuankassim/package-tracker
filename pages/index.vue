@@ -1,6 +1,5 @@
 <template>
-  <div></div>
-  <!-- <div class="bg-white shadow overflow-hidden sm:rounded-lg">
+  <div class="bg-white shadow overflow-hidden sm:rounded-lg">
     <div class="px-4 py-5 border-b border-gray-200 sm:px-6">
       <h3 class="text-lg leading-6 font-medium text-gray-900">
         Applicant Information
@@ -10,7 +9,7 @@
         Personal details and application.
       </p>
     </div>
-  </div> -->
+  </div>
 </template>
 
 <script>
